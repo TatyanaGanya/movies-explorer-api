@@ -14,7 +14,6 @@ dist
 # Optional REPL history
 .idea
 .vscode
-
 # dependencies
 .pnp
 .pnp.js
