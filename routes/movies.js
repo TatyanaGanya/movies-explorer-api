@@ -7,7 +7,6 @@ const {
   deleteMovies,
 } = require('../controllers/movies');
 
-// GET /movies
 router.get('/', getMovies);
 
 // POST /movies
